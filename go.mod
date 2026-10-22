@@ -1,3 +1,3 @@
 module github.com/r2day/util4s
 
-go 1.20
+go 1.26.10
